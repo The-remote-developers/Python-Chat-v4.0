@@ -1,0 +1,13 @@
+{
+    "Database_config": {
+        "apiKey": "AIzaSyCOJKZD7oZDH8LuEEQ64S4m6qPkquDfsls",
+        "authDomain": "chat-1ec86.firebaseapp.com",
+        "databaseURL": "https://chat-1ec86-default-rtdb.firebaseio.com",
+        "storageBucket": "chaffft-1ec86.appspot.com"
+    },
+    "App_config": {
+        "appVersion": 4.0,
+        "appName": "Chat",
+        "debug": 1
+    }
+}
